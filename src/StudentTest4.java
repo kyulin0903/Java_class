@@ -5,13 +5,13 @@ public class StudentTest4 {
 	public static void main(String[] args) {
 
 		Student4 studentLee = new Student4();
-		studentLee.setStudentName("ÀÌÁö¿ø");
+		studentLee.setStudentName("ì´ì§€ì›");
 		System.out.println(Student4.getSerialNum());
-		System.out.println(studentLee.studentName + "ÇĞ¹ø:" + studentLee.studentID);
+		System.out.println(studentLee.studentName + "í•™ë²ˆ:" + studentLee.studentID);
 		
 		Student4 studentSon = new Student4();
-		studentSon.setStudentName("¼Õ¼ö°æ");
+		studentSon.setStudentName("ì†ìˆ˜ê²½");
 		System.out.println(Student4.getSerialNum());
-		System.out.println(studentSon.studentName + "ÇĞ¹ø:" + studentSon.studentID);
+		System.out.println(studentSon.studentName + "í•™ë²ˆ:" + studentSon.studentID);
 	}
 }
