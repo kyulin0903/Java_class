@@ -31,6 +31,6 @@ public class Student4 {
 	
 	public static void setSerialNum(int serialNum)
 	{
-		Student4.serialNum = serialNum; //static º¯¼öÀÌ±â ‹š¹®¿¡ ¾Õ¿¡´Ù°¡ Å¬·¡½º ÀÌ¸§À» ¾¸
+		Student4.serialNum = serialNum; //static ë³€ìˆ˜ì´ê¸° ë–„ë¬¸ì— ì•ì—ë‹¤ê°€ í´ë˜ìŠ¤ ì´ë¦„ì„ ì”€
 	}
 }
